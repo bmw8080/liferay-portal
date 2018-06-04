@@ -274,7 +274,7 @@ public class ReleaseInfo {
 
 	private static final String _CODE_NAME = "Judson";
 
-	private static final String _DATE = "June 12, 2018";
+	private static final String _DATE = "June 6, 2018";
 
 	private static final String _NAME = "Liferay Community Edition Portal";
 
